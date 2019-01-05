@@ -1,0 +1,5 @@
+Introduction to GitHub
+----------------------
+
+- File was created in https://github.com/JohanCJansevanRensburg
+- The repository was named MITCourse
