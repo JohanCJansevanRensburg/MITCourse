@@ -3,3 +3,6 @@ Introduction to GitHub
 
 - File was created in https://github.com/JohanCJansevanRensburg
 - The repository was named MITCourse
+
+- Collaborator is https://github.com/bR0LL0Ks
+
